@@ -10,6 +10,6 @@ echo "years no claims: " . $myCarpolicy->getTotalYearsNoClaims();
 
 echo "Your initial premium is $initialPremium";
 
-echo "Your discounted premium is " . $myCarPolicy->getDiscountedPremium();
+echo "Your discounted premium is " . $myCarpolicy->getDiscountedPremium();
 
 ?>
